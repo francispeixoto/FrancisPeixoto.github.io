@@ -19,16 +19,14 @@ Je bâtis des organisations de développement logiciel performantes là où d'au
 
 ## 🚀 Réalisations Marquantes
 
-### 🚆 Exo | Secteur Transport
+### 🚆 Exo |  Transport Collectif
 * **Création d'une direction applicative unifiée** : Gestion d'un portefeuille de 8M$ et de 60 ressources, stabilisant l'écosystème numérique métropolitain.
 * **Gouvernance Métropolitaine** : Mise en place de redditions de comptes internes et externes pour assurer la pérennité des services de transport collectif.
 
-### 📺 Vidéotron | Télécommunications
-* **Refonte DXP (Drupal)** : Pilotage de la transformation de l'expérience numérique client, augmentant l'engagement et la fidélisation via une architecture moderne.
-
-### 🗳️ TVA & TVA Sports | Médias
-* **Plateforme d'Élections** : Direction du développement de la plateforme de diffusion des résultats électoraux, traitant des flux de données critiques en temps réel sous haute pression.
-* **Statistiques Sportives** : Livraison de systèmes de données massives pour TVA Sports, offrant une expérience interactive aux audiences nationales.
+### 📺 Québecor | Télécommunications & Médias
+* **Refonte Videotron.com** : Pilotage de la transformation de l'expérience numérique client, augmentant l'engagement et la fidélisation via une architecture moderne.
+* **Plateforme d'Élections TVA** : Direction du développement de la plateforme de diffusion des résultats électoraux, traitant des flux de données critiques en temps réel sous haute pression.
+* **Statistiques Sportives TVA Sports** : Livraison de systèmes de données massives pour TVA Sports, offrant une expérience interactive aux audiences nationales.
 
 ### 🏦 ABN AMRO | Finance
 * **Externalisation Globale** : Transition stratégique d'un contrat de **5M€**, harmonisant les services locaux vers un standard de service mondial.
