@@ -4,7 +4,7 @@
 ---
 
 ## 🎯 Proposition de Valeur
-Je bâtis des organisations de développement logiciel performantes là où d'autres voient de la fragmentation. Avec plus de 15 ans d'expérience à la tête d'équipes multidisciplinaires (jusqu'à **60 membres**), je crée des structures agiles et des cadres de gouvernance (**COBIT**) qui transforment les investissements technologiques en leviers de croissance mesurables.
+Je bâtis des organisations de développement logiciel performantes là où d'autres voient de la fragmentation. Avec plus de 15 ans d'expérience à la tête d'équipes multidisciplinaires, je crée des structures agiles et des cadres de gouvernance qui transforment les investissements technologiques en leviers de croissance mesurables.
 
 ---
 
@@ -20,7 +20,7 @@ Je bâtis des organisations de développement logiciel performantes là où d'au
 ## 🚀 Réalisations Marquantes
 
 ### 🚆 Exo | Secteur Transport
-* **Création d'une direction exécutive** : Gestion d'un portefeuille de 8M$ et de 60 ressources, stabilisant l'écosystème numérique métropolitain.
+* **Création d'une direction applicative unifiée** : Gestion d'un portefeuille de 8M$ et de 60 ressources, stabilisant l'écosystème numérique métropolitain.
 * **Gouvernance Métropolitaine** : Mise en place de redditions de comptes internes et externes pour assurer la pérennité des services de transport collectif.
 
 ### 📺 Vidéotron | Télécommunications
@@ -46,7 +46,3 @@ Mon style de gestion est ancré dans l'**habilitation** : je bâtis des système
 ## 📫 Me joindre
 - [**LinkedIn**](https://www.linkedin.com/in/fpeixoto)
 - [**Courriel**](mailto:peixoto.francis@gmail.com)
-- **Localisation** : Rosemère, QC
-
----
-*Dernière mise à jour : Mars 2026*
