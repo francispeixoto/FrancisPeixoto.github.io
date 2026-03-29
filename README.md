@@ -11,7 +11,7 @@ Je bâtis des organisations de développement logiciel performantes là où d'au
 ## 🛠️ Zones d'Impact & Expertise
 
 - **Direction de la Transformation** : Structuration de directions complètes en moins de 6 mois, optimisation de la vélocité et réduction des interdépendances.
-- **Gouvernance & Stratégie** : Alignement rigoureux des portefeuilles applicatifs (budgets **8M$+**) avec la vision d'entreprise.
+- **Gouvernance & Stratégie** : Alignement rigoureux des portefeuilles applicatifs avec la vision d'entreprise.
 - **Expertise Produit & Données** : Livraison de plateformes critiques à haute visibilité centrées sur l'expérience utilisateur et l'exploitation des données en temps réel.
 - **Leadership Mobilisateur** : Mentorat et gestion de talents pour cultiver une culture d'imputabilité et d'innovation.
 
@@ -20,8 +20,8 @@ Je bâtis des organisations de développement logiciel performantes là où d'au
 ## 🚀 Réalisations Marquantes
 
 ### 🚆 Exo |  Transport Collectif
-* **Création d'une direction applicative unifiée** : Gestion d'un portefeuille de 8M$ et de 60 ressources, stabilisant l'écosystème numérique métropolitain.
-* **Gouvernance Métropolitaine** : Mise en place de redditions de comptes internes et externes pour assurer la pérennité des services de transport collectif.
+* **Création d'une direction applicative unifiée** : Gestion d'un portefeuille applicatif de plus de 250 systèmes métiers et de 60 ressources, stabilisant l'écosystème numérique métropolitain.
+* **Gouvernance Métropolitaine** : Mise en place de redditions de comptes internes et externes pour assurer la pérennité des services de transport collectif québecois.
 
 ### 📺 Québecor | Télécommunications & Médias
 * **Refonte Videotron.com** : Pilotage de la transformation de l'expérience numérique client, augmentant l'engagement et la fidélisation via une architecture moderne.
