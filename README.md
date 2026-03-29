@@ -28,8 +28,8 @@ Je bâtis des organisations de développement logiciel performantes là où d'au
 * **Plateforme d'Élections TVA** : Direction du développement de la plateforme de diffusion des résultats électoraux, traitant des flux de données critiques en temps réel sous haute pression.
 * **Statistiques Sportives TVA Sports** : Livraison de systèmes de données massives pour TVA Sports, offrant une expérience interactive aux audiences nationales.
 
-### 🏦 ABN AMRO | Finance
-* **Externalisation Globale** : Transition stratégique d'un contrat de **5M€**, harmonisant les services locaux vers un standard de service mondial.
+### 🏦 Banque de Neuflize (ABN AMRO) | Finance
+* **Externalisation Globale** : Transition stratégique d'un contrat d'impartition technologique local français vers une entente globale, harmonisant les services locaux vers un standard de service mondial.
 
 ---
 
