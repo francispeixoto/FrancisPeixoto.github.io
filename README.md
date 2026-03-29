@@ -1,5 +1,5 @@
-# Francis Peixoto
-### Directeur Exécutif | Stratégie Numérique & Leadership Technologique
+
+# Directeur Exécutif | Stratégie Numérique & Leadership Technologique
 > Transformer la complexité technologique en valeur d'affaires concrète.
 
 ---
